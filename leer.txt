@@ -1,0 +1,11 @@
+1.- La parte servidor es una api rest hecha en node.js y express
+2.- Base de datos articulos_db.sql, restaurar en xampp
+3.- Carpeta server api
+4.- Abrirla en visual studio code y lanzar el comando npm install
+5.- nodemon app o node app y lanzamos nuestro servidor con la api en escucha
+
+
+6.- En la parte cliente defino los ficheros index.html y code.js
+7.- Para la alertas utilizo https://alertifyjs.com/
+
+8.- Para verla funcionar debemos alojarla en un servidor web local xampp, en htdocs y dentro de una carpeta  por ejemplo "a", poner localhost/a en el navegador
